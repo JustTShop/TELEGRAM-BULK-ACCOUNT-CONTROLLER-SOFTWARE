@@ -4,9 +4,7 @@
 
 🇨🇳 - 详情请洽：@SolutionsSupportTG
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1097322363?h=713f54712c" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
-Showcase video : https://www.youtube.com/watch?v=gbO1jC8sefs
+https://vimeo.com/1097322363?share=copy
 
 What are the features? This tool has a total of +43 features and tons of dynamic sub-features! New ones will be implemented!
 
